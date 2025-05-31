@@ -10,7 +10,7 @@ public class ChallengeQ3 {
         System.out.println("Enter your third number : ");
         int num3 = sc.nextInt();
         if (num1 >= num2 && num1 >= num3) {
-            System.out.println(num1 + " is the greatest number among all three of them");
+            System.out.println(num1 + " is the greatest number among  three of them");
         } else if (num2 > num3) {
             System.out.println(num2 + " is the greatest among all three of them ");
         } else {
